@@ -1,0 +1,17 @@
+.titulo-container {
+    text-align: center;
+    background-color: #4CAF50;
+    padding: 20px;
+    position: sticky;
+    top: 0;
+    width: 100%;
+    z-index: 1000;
+    color: white;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+  
+.titulo-texto {
+margin: 0;
+font-size: 2.5rem;
+font-weight: bold;
+}
